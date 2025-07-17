@@ -49,7 +49,7 @@ const Navbar = () => {
           </div>
           <div className="hidden md:flex items-center space-x-4">
             <Link
-              to="/signup"
+              to="https://dashboard-stockflow.netlify.app/"
               className="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700"
             >
               Get Started
